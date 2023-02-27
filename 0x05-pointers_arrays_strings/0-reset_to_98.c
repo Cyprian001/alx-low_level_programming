@@ -1,12 +1,9 @@
 #include "main.h"
 
 /**
- * Description: function that takes an input and pointer it updated value
- * @x: int pointer
- * Return: void
- */
+ *  * reset_to_98 - Set pointer param to 98.
+ *   * @n: int type pointer
+ *    */
 
-void reset_to_98(int *x)
-{
-	*x = 98;
+void reset_to_98(int *n)                             {                                                            *n = 98;
 }
