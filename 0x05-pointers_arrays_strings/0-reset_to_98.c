@@ -1,7 +1,7 @@
 #include "main.h"
-/**
 
- * reset_to_98 - functionThatTakesAnInputToAPointerAndUpdateItValue
+/**
+ * Description: function that takes an input and pointer it updated value
  * @x: int pointer
  * Return: void
  */
